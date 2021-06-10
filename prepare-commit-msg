@@ -1,5 +1,0 @@
-#!/bin/sh
-
-COMMIT_MSG_FILE=$1
-
-printf "\nSent from my iPhone" >> "$COMMIT_MSG_FILE"
